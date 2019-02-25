@@ -1,1 +1,1 @@
-# grafana-testing
+# grafanatesting
